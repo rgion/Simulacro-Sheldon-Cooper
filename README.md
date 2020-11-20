@@ -25,7 +25,7 @@ Teniendo en cuenta esto, desarrolla las siguiente funciones/procedimientos que t
 
 **Función esPrimo** (0,5 puntos). Esta función recibirá como parámetro un número entero, y devolverá un booleano indicando si es primo (cierto) o no lo es (falso).
 
-Función** obtenerEspejo **(1 punto). Esta función recibe como parámetro un número y devuelve ese número dado la vuelta, es decir el espejo. Por ejemplo, el espejo de 73 es 37. El espejo de 135 es 531.
+Función **obtenerEspejo** (1 punto). Esta función recibe como parámetro un número y devuelve ese número dado la vuelta, es decir el espejo. Por ejemplo, el espejo de 73 es 37. El espejo de 135 es 531.
 
 Procedimiento **añadirPrimos** (1 punto). Este procedimiento recibe como parámetro un número y una lista, añade a esa lista todos los números primos encontrados hasta ese número (el número 1 no cuenta). Por ejemplo, si le pasamos un 7, actualizará la lista recibida con los números 2,3,5 y 7.
 
