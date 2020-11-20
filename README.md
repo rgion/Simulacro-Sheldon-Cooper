@@ -31,7 +31,7 @@ Procedimiento **añadirPrimos** (1 punto). Este procedimiento recibe como parám
 
 Función **obtenerNumMult** (1 punto). Esta función recibe como parámetro un número, y devuelve el resultado de multiplicar todos los dígitos que la contienen. Por ejemplo, si le pasamos un 73, nos devolverá 21 (el resultado de multiplicar 7*3). Si le pasamos el 342, devolverá 24 (el resultado de multiplicar 3*4*2).
 
-**Programa principal **(1,5 puntos). Teniendo en cuenta el enunciado inicial, y apoyándote en las funciones que has desarrollado, realiza el programa principal de manera que solicite un número al usuario, y haga las comprobaciones oportunas de manera que imprima finalmente si ese número es Sheldon o no. 
+**Programa principal** (1,5 puntos). Teniendo en cuenta el enunciado inicial, y apoyándote en las funciones que has desarrollado, realiza el programa principal de manera que solicite un número al usuario, y haga las comprobaciones oportunas de manera que imprima finalmente si ese número es Sheldon o no. 
 
 
     **Muestra de ejecución:**
@@ -74,7 +74,7 @@ Escribe un programa que haga de traductor de textos de castellano a inglés. Par
 
 1. **Introducir palabras al traductor** (2,5 puntos). El usuario introducirá las palabras en español e inglés separadas por dos puntos, y cada par `palabra:traducción` separados por comas. Una vez introducido nos devolverá al menú principal. Si la palabra ya existe en el traductor, nos informará mostrando la traducción actual en el traductor, y por tanto, no será añadida la palabra.
 2. **Introducir texto a traducir** (2 puntos): Pedirá un texto en castellano, y realizará una traducción teniendo en cuenta las palabras existentes en el traductor. Si no existe la traducción de una palabra, ésta quedará en el idioma original (castellano).
-3. **Salir: **Si se selecciona esta opción el menú dejará de ejecutarse, y por tanto, finalizará el programa.
+3. **Salir:** Si se selecciona esta opción el menú dejará de ejecutarse, y por tanto, finalizará el programa.
 
     **Muestra de ejecución:**
 
